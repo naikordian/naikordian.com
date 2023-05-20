@@ -1,4 +1,4 @@
-baseURL = 'https://naikordian.com/'
+baseURL = 'https://blog.naikordian.com/'
 languageCode = 'en-us'
 title = 'Naikordian'
 theme = 'hugo-ficurinia'
