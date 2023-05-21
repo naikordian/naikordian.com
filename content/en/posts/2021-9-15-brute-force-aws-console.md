@@ -1,7 +1,7 @@
 ---
 title: How to brutefore AWS console sign-in
 date: 2021-09-15 10:34:00 -0500
-tags: [Reseach, AWS]
+tags: [Research, AWS]
 ---
 
 ## Introduction
